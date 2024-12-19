@@ -1,0 +1,8 @@
+body{background-color:grey}
+    #result{color: brown;}
+div{
+    color: maroon;
+    width: fit-content;
+    border:2.5px solid brown;
+    padding: 30px;
+}
